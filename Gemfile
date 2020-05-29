@@ -12,7 +12,7 @@ group :development do
 end
 
 gem 'geocoder'
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 
 # Use Puma as the app server
 gem 'puma'
